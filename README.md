@@ -17,6 +17,7 @@ cards.
 | mini-PCIe_F2_Full.kicad_mod | F2 | Full-Mini with bottom-side keep outs |
 | mini-PCIe_H1_Full.kicad_mod | H1 | Half-Mini |
 | mini-PCIe_H2_Full.kicad_mod | H2 | Half-Mini with bottom-side keep outs |
+| mini-PCIe_Combo.kicad_mod | H2 (F2) | Half-Mini with removable arms for mounting in Full socket |
 
 ## Contributing
 
