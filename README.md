@@ -1,6 +1,13 @@
 # KiCad Mini PCI Express
 
-KiCad footprints for mini PCI-e half-height and full-height cards.
+KiCad symbol and footprints for mini PCI-e half-height and full-height
+cards.
+
+## Symbol Library
+
+| File | Symbol | Description |
+|------|--------|-------------|
+| mpcie.lib | mpcie | Mini PCI-e edge connector |
 
 ## Footprints
 
