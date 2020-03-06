@@ -1,8 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MTAC_SDIO
+D Multitech MTAC Accessory Port Interface - SDIO Build Option
+K multitech mtac
+F https://pcisig.com/specifications/pciexpress/base
+$ENDCMP
+#
+$CMP MTAC_SPI
+D Multitech MTAC Accessory Port Interface - SPI Build Option
+K multitech mtac
+F https://pcisig.com/specifications/pciexpress/base
+$ENDCMP
+#
 $CMP miniPCIe
 D Mini PCI Express Edge Connector
 K mini pcie pci-e pci express edge
 F https://pcisig.com/specifications/pciexpress/base
 $ENDCMP
+#
 #End Doc Library
